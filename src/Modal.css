@@ -5,16 +5,23 @@
     right: 0;
     bottom: 0;
     background-color: rgba(0,0,0,0.5);
+    background-image: url("https://i.ibb.co/hYRdxxM/bg-masterhead.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 45px;
+    border-radius: 7px !important;
   }
   
   .modal-content {
     background-color: #fff;
+    background-image: url('https://freevector-images.s3.amazonaws.com/uploads/vector/preview/40529/White_Background_generated.jpg');
+    background-repeat: no-repeat !important;
+    background-size: auto;
     width: 500px !important;
     height: 500px !important;
+    border-radius: 64px !important;
   }
   
   .modal-title {
